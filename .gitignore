@@ -8562,3 +8562,9 @@ Dataset_2/1_Con_sueño_redimensionado/img_j_18299.jpg
 Dataset_2/1_Con_sueño_redimensionado/img_j_18328.jpg
 Imágenes de prueba/Con sueño/13.jpg
 mi_modelo2.keras
+model_checkpoint.h5
+Saved_model_vgg/fingerprint.pb
+Saved_model_vgg/keras_metadata.pb
+Saved_model_vgg/saved_model.pb
+Saved_model_vgg/variables/variables.data-00000-of-00001
+Saved_model_vgg/variables/variables.index
